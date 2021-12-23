@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Frodo" walkinterval="2000" floorchange="0" script="frodo.lua">
+	<health now="100" max="100"/>
+	<look type="154" head="58" body="68" legs="109" feet="115" addons="3"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="shop_buyable" value="collar of blue plasma,26182,1000000;collar of red plasma,26200,1000000;collar of green plasma,26199,1000000;ring of blue plasma,26186,1000000;ring of red plasma,26190,1000000;ring of green plasma,26187;shrunken head necklace,21691,3000000;prismatic necklace,18407,1000000;prismatic ring,18408,1000000;lemon cupcake,31721,10000000;strawberry cupcake,31720,10000000;blueberry cupcake,31719,10000000;exercise bow,32387,500000;exercise club,32386,500000;exercise sword,32384,500000;exercise wand,32389,500000;exercise axe,32385,500000;exercise rod,32388,500000;jewelled backpack,5801,10000;fire mushroom,2795,1000;"/>
+	</parameters>
+</npc>

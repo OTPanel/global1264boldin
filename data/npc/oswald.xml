@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Oswald" walkinterval="2000" floorchange="0" script="sam.lua">
+	<health now="100" max="100"/>
+	<look type="1069" head="38" body="113" legs="67" feet="95" addons="3"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="shop_buyable" value="blade of destruction,30684,3000000;chopper of destruction,30687,3000000;hammer of destruction,30689,3000000;mace of destruction,30688,3000000;slayer of destruction,30685,3000000;bow of destruction,30690,3000000;crossbow of destruction,30691,3000000;rod of destruction,30693,3000000;wand of destruction,30692,3000000;axe of destruction,30686,3000000;"/>
+	</parameters>
+</npc>

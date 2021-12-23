@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Galuna" walkinterval="2000" floorchange="0" script="galuna.lua">
+	<health now="100" max="100"/>
+	<look type="138" head="40" body="96" legs="95" feet="96" addons="3"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="shop_buyable" value="    crystalline arrow,18304,30;    red quiver,40684,4;    bow,2456,400;    diamond arrow,40736,50;    blue quiver,40683,1;"/>
+		<parameter key="shop_sellable" value="spear,2389,3"/>
+	</parameters>
+</npc>
